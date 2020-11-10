@@ -1,0 +1,24 @@
+{
+  "name": "wa-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@open-wa/wa-automate": "^2.0.16",
+    "@types/bent": "^7.3.0",
+    "@types/mime-types": "^2.1.0",
+    "@types/node-fetch": "^2.5.7",
+    "axios": "^0.20.0",
+    "bent": "^7.3.9",
+    "brainly-scraper-ts": "^1.0.3",
+    "mime-types": "^2.1.27",
+    "node-fetch": "^2.6.0",
+    "ts-node": "^9.0.0"
+  }
+}
